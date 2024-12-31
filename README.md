@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 21.11.24
+## Date: 25-11-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,147 +25,217 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
+L1.html:
 ```
-map.html
+<html>
+    <head>
+        <title>THIRUTHANI LORD MURUGA TEMPLE</title>
+    </head>
+    <body bgcolor="white">
+        <h1 align="center">
+        <font color="black"><b>THIRUTHANI LORD MURUGA TEMPLE</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="maroon"><b>THIRUTHANI LORD MURUGA TEMPLE</b></font>
+        </h3>
+        <hr size="5" color="black">
+        <p align="justify">
+        
+            <center> <img src="L1.jpg" usemap="#image-map" width="50%" height="50%"></center>
+
+        <font face="Century Schoolbook" size="5">
+            <center>The temple hosts a Padyabhoojai festival, which was started during the British Raj in 1917.
+                The Tiruttani Murugan Temple in Tamil Nadu, India has a rich history that's intertwined with the legends of Lord Murugan, 
+                the Hindu god of war and victory.
+                Some say the temple was built by the Pallava kings in the 9th–10th century CE and later renovated by the Cholas. 
+                The temple is also mentioned in the Sangam period work Tirumurugatruppadai by Nakkeerar.
+                The temple is known for having an elephant as the original animal mount of Lord Murugan, 
+                rather than the more common peacock. The temple also has a hollow chest, 
+                which is said to be a result of the demon Tarakasuran throwing a discus on it.</center>
+        </font>
+        </p>
+    </body>
+</html>
+```
+
+
+L2.html:
+```
+<html>
+    <head>
+        <title>PERIYAPALAYAM BHAVANI AMMAAN TEMPLE</title>
+    </head>
+    <body bgcolor="white">
+        <h1 align="center">
+        <font color="black"><b>PERIYAPALAYAM BHAVANI AMMAAN TEMPLE</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="maroon"><b>PERIYAPALAYAM BHAVANI AMMAAN TEMPLE</b></font>
+        </h3>
+        <hr size="5" color="black">
+        <p align="justify">
+        
+            <center> <img src="L2.jpg" usemap="#image-map" width="50%" height="50%"></center>
+
+        <font face="Century Schoolbook" size="5">
+            <center>The temple is located in the Periyapalayam town of the Tiruvallur district, on the banks of the Arani River. 
+                It is famous among followers of Goddess Sakthi.
+                According to the legend people refer Amman as the sister of Lord Krishna who managed to escape from the clutches of Kamsan (Demon King) 
+                and after warning Kamsan about his death she decided to settle in this place in name of Sri Bhavani.
+                vi Bhagavatam mentions that Bhavani Devi is the true form of Aadhi Parashakti. She is considered to be Lord Krishna's sister. 
+                Lord Vishnu performed penance to seek Devi's assistance for the Krishna avatar. 
+                This led to Devi being born to Yashoda as Sri Krishna's sister.</center>
+        </font>
+        </p>
+    </body>
+</html>
+```
+
+
+L3.html:
+```
+<html>
+    <head>
+        <title>HVF FACTORY AVADI</title>
+    </head>
+    <body bgcolor="white">
+        <h1 align="center">
+        <font color="black"><b>HVF FACTORY AVADI</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="maroon"><b>HVF FACTORY AVADI</b></font>
+        </h3>
+        <hr size="5" color="black">
+        <p align="justify">
+        
+            <center> <img src="L3.jpg" usemap="#image-map" width="50%" height="50%"></center>
+
+        <font face="Century Schoolbook" size="5">
+            <center>Heavy Vehicles Factory (HVF) is an armoured vehicle and battle tank manufacturing factory located at Avadi in Chennai in the Indian state of Tamil Nadu.
+                It is managed by Armoured Vehicles Nigam Limited (AVANI) of the Ministry of Defence, Government of India.
+                Heavy Vehicles Factory (HVF) was established in 1961 by the Ordnance Factory Board to manufacture heavy battlefield equipment and was later made part of AVANI during the re-organisation in 2021
+                The factory is powered by a 16 MW solar power plant, spread over 80 acres (32 ha), commissioned in 2018 and installed by Bharat Electronics Limited (BEL) at a cost of ₹1,050 million (US$13 million). 
+                The plant helps reduce carbon dioxide (CO2) emissions to the extent of 26,000 tonnes per annum, saving ₹45 million (US$540,000) each year</center>
+        </font>
+        </p>
+    </body>
+</html>
+```
+
+
+L4.html:
+```
 
 <html>
     <head>
-        <title>My City</title>
+        <title>CINEMAS</title>
+    </head>
+    <body bgcolor="cyan">
+        <h1 align="center">
+        <font color="black"><b>EVP CINEMAS </b></font>
+        </h1>
+        
+        <hr size="5" color="black">
+        <p align="justify">
+            
+            <center> <img src="L4.jpg" usemap="#image-map" width="50%" height="50%" ></center>
+
+        <font face="Century Schoolbook" size="5">
+            <center>3D movies, Live performances, Arcade games, Restaurant, Stadium seating, and Onsite services.
+            EVP Carnival Cinemas is a multiplex near Avadi that was announced at a press meet in March 2019.
+            The chain's locations are typically situated in urban areas, contributing to its accessibility for a broad audience.
+            EVP Cinemas is a popular cinema chain in India, known for providing a wide range of films across various genres. 
+            It is particularly recognized for its modern facilities, including comfortable seating, advanced projection technology, and an enjoyable viewing experience. </center>
+        </font>
+        </p>
+    </body>
+</html>
+```
+
+
+L5.html:
+```
+<html>
+    <head>
+        <title>ARULMIGU VAITHYA VEERARAGHAVA PERUMAL TEMPLE</title>
+    </head>
+    <body bgcolor="white">
+        <h1 align="center">
+        <font color="black"><b>ARULMIGU VAITHYA VEERARAGHAVA PERUMAL TEMPLE</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="maroon"><b>ARULMIGU VAITHYA VEERARAGHAVA PERUMAL TEMPLE</b></font>
+        </h3>
+        <hr size="5" color="black">
+        <p align="justify">
+        
+            <center> <img src="L5.jpg" usemap="#image-map" width="50%" height="50%"></center>
+
+        <font face="Century Schoolbook" size="5">
+            <center>Veeraraghava Swamy Temple (or Veerarghavaswamy Temple) is a temple dedicated to the Hindu god Vishnu, located in Tiruvallur, Chennai Metropolitan City, 
+                an area and headquarters in Tiruvallur district in the South Indian state of Tamil Nadu. Constructed in Dravidian style of architecture, 
+                the temple is glorified in the Divya Prabandham, the early medieval Tamil canon of the Alvar saints from the 6th–9th centuries CE. 
+                It is counted as one among the 108 Divya Desams dedicated to Vishnu. 
+                Vishnu is worshipped as Veeraraghava Perumal, and his consort Lakshmi as Kanakavalli Thayar.
+                The temple is originally believed to have been built by the Pallavas during the 8th century.
+                The temple is believed to be of significant antiquity and is believed to be initiated by the Pallavas of the late 8th century CE, 
+                with later contributions at different times from Thanjavur Nayaks. 
+                The temple has three inscriptions dating from the Chola period. 
+                The temple has a seven-tiered rajagopuram (gateway tower) and enshrined within a granite wall.</center>
+        </font>
+        </p>
+    </body>
+</html>
+```
+
+
+map.html:
+```
+<html>
+    <head>
+        <title>
+            My City
+        </title>
     </head>
     <body>
-        <h1 align="center"><b>MADURAI</b></h1>
-        <h2 align="center"><b>PRIYAADARSHINI K (212223240126)</b></h2>
-    <center>
-        <img src="madu.png.png" usemap="#image-map" height="850" width="1800">
-        <map name="image-map">
-        <area target="" alt="Kamarajar University " title="Kamarajar University " href="university.html" coords="176,235,328,279" shape="rect">
-        <area target="" alt="The Gateway hotel" title="The Gateway hotel" href="gateway.html" coords="747,477,913,522" shape="rect">
-        <area target="" alt="Athisayam Theme Park" title="Athisayam Theme Park" href="themepark.html" coords="349,21,544,46" shape="rect">
-        <area target="" alt="Radiance Cinema" title="Radiance Cinema" href="radiance.html" coords="798,16,969,45" shape="rect">
-        <area target="" alt="Thirumalai Nayakkar Palace" title="Thirumalai Nayakkar Palace" href="palace.html" coords="1210,447,1359,489" shape="rect">
-    </center>
-</map>
-</body>
-</html>
-```
-```
-themepark.html
-
-<html>
-    <head>
-        <title>Athisayam Themepark</title>
-    </head>
-    <body bgcolor="brown">
-        <h1 align="center"><b>MADURAI</b></h1>
-        <h2 align="center"><b>ATHISAYAM THEME PARK </b></h2>
-        <hr width="100%" size="4" color="white">
-        <br>
         <h1 align="center">
-            1) Athisayam is an amusement theme park located in Paravai on Madurai - Dindigul National Highway 7, 12 km from Madurai.<br>
-            2) The park is located on a 70 acres (280,000 m2) site and features about 4 games and 2 water rides.</br>
-            3) The park is popular for its water rides, recreating the experience of Courtalam waterfalls.<br>
-        </br>
+            <font color="magenda"><b>THIRUVALLUR</b></font>
         </h1>
-        </br>
-    </body>
-</html>
-```
-```
-radiance.html
+        
+        <center>
+            
+    <img src="map.PNG" usemap="#image-map"width="50%" height="75%">
 
-<html>
-    <head>
-        <title>Radiance</title>
-    </head>
-    <body bgcolor="grey">
-        <h1 align="center"><b>MADURAI</b></h1>
-        <h2 align="center"><b>RADIANCE CINEMA</b></h2>
-        <hr width="100%" size="4" color="brown">
-        <br>
-        <h1 align="center">
-            1) Radiance Cinema in Madurai is a gateway to a world of cinematic wonders.<br>
-            2) Explore our five theme screens, each offering a unique and immersive movie-watching experience.</br>
-            3) It is one of the biggest cinema theater in Madurai with distinct and diverse screens with great theme. <br>
-        </br>
-        </h1>
-        </br>
-    </body>
-</html>
-```
-```
-gateway.html
 
-<html>
-    <head>
-        <title>The Hotel Gateway</title>
-    </head>
-    <body bgcolor="sky blue">
-        <h1 align="center"><b>MADURAI</b></h1>
-        <h2 align="center"><b>THE GATEWAY HOTEL</b></h2>
-        <hr width="100%" size="4" color="brown">
-        <br>
-        <h2 align="center">
-            1) Chennai may be the capital of Tamil Nadu but Madurai claims its soul and The Gateway Hotel Pasumalai, Madurai is located right at the heart of it.<br>
-            2) A short distance from Madurai's IT corridor, The Gateway Hotel, Madurai sits at the top of the Pasumalai hill, surrounded by 62 acres of scenic gardens. </br>
-            3) The 5 star hotel in Madurai serves a perfect vantage point to take in the picturesque views of the temple town and the Kodai hills.
-        </br>4)  Garden Resort located atop Pasumalai Hill overlooking the Meenakshi Amman Temple. 
-        </h2>
-        </br>
-    </body>
-</html>
-```
-```
-palace.html
+    <map name="image-map">    
+            <area target="_blank" alt="THIRUTHANI LORD MURUGA TEMPLE " title="THIRUTHANI LORD MURUGA TEMPLE" href="L1.html" coords="205,330,259,369" shape="rect">
+            <area target="_blank" alt="PERIYAPALAYAM BHAVANI AMMAAN TEMPLE" title="PERIYAPALAYAM BHAVANI AMMAAN TEMPLE" href="L2.html" coords="505,225,545,255" shape="rect">
+            <area target="_blank" alt="HVF FACTORY AVADI" title="HVF FACTORY AVADI" href="L3.html" coords="530,385,580,430" shape="rect">
+            <area target="_blank" alt="EVP CINEMAS" title="EVP CINEMAS" href="L4.html" coords="505,465,535,485" shape="rect">
+            <area target="_blank" alt="ARULMIGU VAITHYA VEERARAGHAVA PERUMAL TEMPLE" title="ARULMIGU VAITHYA VEERARAGHAVA PERUMAL TEMPLE" href="L5.html" coords="399,359,450,408" shape="rect">
+    </map>
 
-<html>
-    <head>
-        <title>Thirumalai Nayakkar Mahal</title>
-    </head>
-    <body bgcolor="orange">
-        <h1 align="center"><b>MADURAI</b></h1>
-        <h2 align="center"><b>THIRUMALAI NAYAKKAR MAHAL</b></h2>
-        <hr width="100%" size="4" color="brown">
-        <br>
-        <h2 align="center">
-            1) Thirumalai Nayak Palace is a 17th-century palace erected in 1636 by King Tirumala Nayaka, a king of Madurai's Nayaka dynasty who ruled Madurai from 1623 to 1659, in the city of Madurai, India. <br>
-            2) The building, which can be seen today, was the main palace, in which the king lived.</br>
-            3) The original palace complex was four times bigger than the present structure.<br>
-            4) After independence, the Thirumalai Palace was declared as a national monument and is now under the protection of the Tamil Nadu Archaeological Department. 
-        </br>5) In its heyday, the palace was considered to be one of the wonders of the South. The palace is located two kilometres (1.2 mi) south east of the Meenakshi Amman Temple.
-        </h2>
-        </br>
+        </center>
     </body>
-</html>
-```
-```
-university.html
 
-<html>
-    <head>
-        <title>Kamarajar University</title>
-    </head>
-    <body bgcolor="pink">
-        <h1 align="center"><b>MADURAI</b></h1>
-        <h2 align="center"><b>MADURAI KAMARAJAR UNIVERSITY</b></h2>
-        <hr width="100%" size="4" color="brown">
-        <br>
-        <h2 align="center">
-            1) Madurai Kamaraj University (MKU) is a public state university located in the Madurai city, in southern Tamil Nadu, India.<br>
-            2) Madurai Kamaraj University offers 41 post graduate, 35 M.Phil. and 17 Diploma / P.G. Diploma / Certificate courses in the various departments. It was established in 1966.</br>
-            3) MKU is one of the 15 universities in India with the University with Potential for Excellence status,which was awarded by the University Grants Commission (UGC) in India.
-        </br>4) In 2021, the university was awarded an 'A++' grade from the National Assessment and Accreditation Council (NAAC) in its 4th cycle
-        </h2>
-        </br>
-    </body>
 </html>
 ```
+
 ## OUTPUT
-![alt text](<coco/Screenshot 2024-04-01 145357.png>)
-![alt text](<coco/Screenshot 2024-04-01 145412.png>)
-![alt text](<coco/Screenshot 2024-04-01 145424.png>)
-![alt text](<coco/Screenshot 2024-04-02 145216.png>)
-![alt text](<coco/Screenshot 2024-04-01 145448.png>)
-![alt text](<coco/Screenshot 2024-04-01 145502.png>)
+
+![image](https://github.com/user-attachments/assets/b78b10a2-444f-44af-a8e4-655dc6fa04b1)
+![image](https://github.com/user-attachments/assets/04b3141c-04e6-4b4e-9e88-3228ad5dcc77)
+![image](https://github.com/user-attachments/assets/72f414ec-9d9c-4a53-8e3e-c6e7100fa48a)
+
+![image](https://github.com/user-attachments/assets/ce0e8667-4d56-4eca-badd-175b145403a9)
+![image](https://github.com/user-attachments/assets/2eb29d41-06fc-46cc-95f7-d6cddbd15864)
+
+
+
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
